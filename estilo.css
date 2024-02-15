@@ -5,6 +5,7 @@ body{
 	color: null;
 	background-color: 	#1C1C1C;
 }
+
 .centro1{
 	width: 60%;
 	
@@ -34,6 +35,9 @@ p {
 	font-family: 'Times New Roman', Times, serif;
 	padding: 0.5%;
 	font-size: 100%;
+}
+.centrotxt{
+	text-align: center;
 }
 /* Hs*/
 h1{
