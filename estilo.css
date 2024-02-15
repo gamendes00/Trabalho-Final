@@ -1,5 +1,4 @@
 *{
-
 	/*border: 1px solid purple;*/
 }
 body{
@@ -88,7 +87,7 @@ button:hover{
 	background-color: black;
 	color: white;
 	text-align: center;
-	padding: 14px 16px;
+	padding: 18px 20px;
 	font-size: 18px;
 	
 }
